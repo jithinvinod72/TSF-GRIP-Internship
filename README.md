@@ -12,4 +12,4 @@ Problem Statement - What will be predicted score if a student studies for 9.25 h
 Problem Statement:From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 In this task we are going to predict optimum number of clusters in 'Iris' dataset and represent it visually. As it is clustering problem so we are going to use K-Means clustering algorithm so predict the clusters.
 
-#### Dataset for taske 3 - https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+#### Dataset for task 3 - https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
